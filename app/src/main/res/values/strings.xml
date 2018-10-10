@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anton Stukanov</string>
+    <string name="key_info1">Autotester/DevOps</string>
+    <string name="key_info2">InfoSec Master\'s student</string>
+    <string name="send_btn_text">Send Message</string>
+    <string name="message_hint">Enter your message ...</string>
+    <string name="key_info3">Android fan</string>
+    <string name="disclaimer">\\u00A9 2018 Anton Stukanov</string>
+</resources>
