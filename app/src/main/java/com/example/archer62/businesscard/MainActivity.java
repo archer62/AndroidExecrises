@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         disclaimer.setText("AAAAAAAAAAAAAAAAAAAAAAAAAAA");
         disclaimer.setTextSize(R.dimen.textSize);
         disclaimer.setTextColor(Color.BLACK);
-        disclaimer.setBackgroundColor(Color.RED);
+        disclaimer.setBackgroundColor(Color.BLACK);
 
 //        LinearLayout.LayoutParams linearLayoutParams = new LinearLayout.LayoutParams(
 //                ViewGroup.LayoutParams.WRAP_CONTENT, // width
